@@ -61,8 +61,8 @@
 						<div class="swiper-slide darj" style="background-image: url('images/tjufe/tj.jpeg'); background-position: center top;">
 							<div class="container clearfix">
 								<div class="slider-caption">
-									<h1 data-caption-animate="fadeInUp">Sweet home Tianjin</h1>
-									<p data-caption-animate="fadeInUp" data-caption-delay="200">But we have one thing in common.</p>
+									<h1 data-caption-animate="fadeInUp">But we have one thing in common - Sweet home Tianjin</h1>
+									<p data-caption-animate="fadeInUp" data-caption-delay="200"></p>
 								</div>
 							</div>
 						</div>
