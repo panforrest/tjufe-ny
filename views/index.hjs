@@ -24,7 +24,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Home - One Page Layout | Canvas</title>
+	<title>天津财经大学 | 校友会</title>
 
 </head>
 
@@ -147,7 +147,7 @@
 									<img src="images/tjufe/mission.jpeg" alt="Why choose Us?">
 								</div>
 								<div class="fbox-desc">
-									<h3>What's Our Mission.<span class="subtitle">Coming soon...</span></h3>
+									<h3>What's Our Mission?<span class="subtitle">Coming soon...</span></h3>
 									<p></p>
 								</div>
 							</div>
@@ -636,11 +636,16 @@
 								</div>
 
 								<div class="col_one_third col_last">
-									<label for="template-contactform-service">You are a </label>
+									<label for="template-contactform-service">My Affiliation with 天津财经大学</label>
 									<select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
 										<option value="">-- Select One --</option>
-										<option value="Wordpress">Student</option>
-										<option value="PHP / MySQL">Alumni</option>
+										
+										<option value="Alumni">Alumni</option>
+										<option value="Student">Student</option>
+										<option value="Prosp_stud">Prospective Student</option>
+										<option value="Fam_Frnd">Family/Friend</option>
+										<option value="Non_Above">None Above</option>
+										
 										
 									</select>
 								</div>
